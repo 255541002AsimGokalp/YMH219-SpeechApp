@@ -1,0 +1,26 @@
+# Visual Studio & .NET
+.vs/
+bin/
+obj/
+out/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.log
+*.tmp
+
+# Rider / VS Code / macOS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Packages
+packages/
+*.nupkg
+
+# Local runtime outputs
+highscore.txt
+*.wav
